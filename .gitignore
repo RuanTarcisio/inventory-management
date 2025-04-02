@@ -3,9 +3,11 @@
 
 # Ignorar arquivos de build do Next.js
 client/.next/
-
+.next/
 
 # dependencies
+client/node_modules
+server/node_modules
 /node_modules
 /.pnp
 .pnp.js
