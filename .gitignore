@@ -5,6 +5,8 @@
 /client/.next/
 / .next/
 
+/.vscode
+
 # dependencies
 /client/node_modules
 /server/node_modules
