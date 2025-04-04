@@ -2,10 +2,14 @@
 
 
 # Ignorar arquivos de build do Next.js
-client/.next/
+/client/.next/
+/ .next/
 
+/.vscode
 
 # dependencies
+/client/node_modules
+/server/node_modules
 /node_modules
 /.pnp
 .pnp.js
@@ -39,3 +43,15 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+client/node_modules/
+server/node_modules/
+
+# Ignorar node_modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Ignorar pastas de build do Next.js
+.next/
+client/.next/
+server/next/
