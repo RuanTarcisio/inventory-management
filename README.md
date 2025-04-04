@@ -8,8 +8,8 @@ If you find bugs or have suggestions, open an issue or send a PR!!
 
 Clone this project at: https://github.com/RuanTarcisio/inventory-management.git
 
-After cloned: cd /server     and use: npm i
-After first install: cd ../client     and use: npm i
+<p>After cloned: cd /server     and use: npm i</p>
+<p>After first install: cd ../client     and use: npm i</p>
 
 So, after this we can start our project, just try "npm run dev" in both directories(client and server)
 
